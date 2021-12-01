@@ -1,4 +1,4 @@
-Example status badge for this pipeline.
+[![Build Status](https://dev.azure.com/minhtu91cntt/Java-Proj/_apis/build/status/MinhTu-VN.pipelines-java?branchName=master)](https://dev.azure.com/minhtu91cntt/Java-Proj/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
