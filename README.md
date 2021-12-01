@@ -1,3 +1,4 @@
+Example status badge for this pipeline.
 
 # Contributing
 
